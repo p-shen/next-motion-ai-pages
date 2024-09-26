@@ -6,4 +6,4 @@ description: About Description
 
 # Contact
 
-For questions email [contact@shuttleai.xyz](mail:contact@shuttleai.xyz)
+For questions email [contact@nextmotionai.com](mail:contact@nextmotionai.com)
