@@ -1,2 +1,13 @@
 # next-motion-ai-pages
-Webpage artifacts for NextMotionAI.com
+
+Github pages for nextmotionai.com
+
+## Commands
+
+### Dev
+
+`npm run start`
+
+### Deploy
+
+`USE_SSH=true npm run deploy`
